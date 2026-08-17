@@ -1,1 +1,30 @@
+# AWS Research
 
+## 1. Brief Overview
+
+Amazon Web Services (AWS) is a cloud computing platform provided by Amazon. It offers services for computing, storage, databases, networking, security, analytics, and application development.
+
+## 2. Global Infrastructure
+
+AWS operates a global infrastructure organized into geographic Regions and Availability Zones. Each Region contains multiple isolated Availability Zones designed to support highly available and fault-tolerant applications.
+
+## 3. Cloud Management Console
+
+The AWS Management Console is a web-based interface used to access and manage AWS services and resources. Users can create, configure, monitor, and manage cloud resources through the console.
+
+## 4. Four (4) Core Services
+
+1. Amazon EC2 - Provides virtual servers for running applications.
+2. Amazon S3 - Provides scalable object storage.
+3. Amazon RDS - Provides managed relational databases.
+4. AWS Lambda - Runs code without requiring users to manage servers.
+
+## 5. Three (3) Advantages
+
+1. Wide range of cloud services.
+2. Highly scalable global infrastructure.
+3. Flexible resources that can support different workloads.
+
+## 6. Typical Enterprise Use Cases
+
+AWS is commonly used by enterprises for web applications, data storage, databases, backup and disaster recovery, application development, analytics, and scalable business systems.
