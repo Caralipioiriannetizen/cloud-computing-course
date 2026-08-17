@@ -1,1 +1,30 @@
+# Google Cloud Platform Research
 
+## 1. Brief Overview
+
+Google Cloud Platform (GCP), also called Google Cloud, is a cloud computing platform provided by Google. It provides services for computing, storage, databases, networking, artificial intelligence, analytics, and application development.
+
+## 2. Global Infrastructure
+
+Google Cloud operates infrastructure across multiple geographic locations. Its infrastructure is organized into Regions and Zones. Regions are geographic areas that contain Zones, which provide isolated locations for deploying cloud resources.
+
+## 3. Cloud Management Console
+
+The Google Cloud Console is a web-based interface used to create, configure, monitor, and manage Google Cloud resources and services.
+
+## 4. Four (4) Core Services
+
+1. Compute Engine - Provides virtual machines for running applications.
+2. Cloud Storage - Provides scalable object storage.
+3. Cloud SQL - Provides managed relational databases.
+4. Google Kubernetes Engine (GKE) - Provides managed Kubernetes clusters for containerized applications.
+
+## 5. Three (3) Advantages
+
+1. Strong data analytics and artificial intelligence capabilities.
+2. Global infrastructure and high-performance networking.
+3. Scalable services for applications and enterprise workloads.
+
+## 6. Typical Enterprise Use Cases
+
+Google Cloud is commonly used for data analytics, artificial intelligence, machine learning, web applications, databases, containerized applications, application development, and large-scale data processing.
