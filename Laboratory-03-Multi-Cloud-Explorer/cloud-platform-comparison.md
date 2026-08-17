@@ -1,26 +1,14 @@
-# Google Cloud Platform Research
+# Cloud Platform Comparison
 
-## Overview
+| Feature | AWS | Azure | GCP |
+|---|---|---|---|
+| Provider | Amazon | Microsoft | Google |
+| Compute | EC2 | Virtual Machines | Compute Engine |
+| Storage | S3 | Blob Storage | Cloud Storage |
+| Database | RDS | Azure SQL | Cloud SQL |
+| AI Services | AWS AI Services | Azure AI | Google AI |
+| Best Known For | Large cloud ecosystem | Microsoft integration | Data and AI |
 
-Google Cloud Platform (GCP) is a cloud computing platform that provides infrastructure, storage, databases, networking, artificial intelligence, and other cloud services.
+## Summary
 
-## Major Services
-
-- Compute Engine
-- Cloud Storage
-- Cloud SQL
-- Google Kubernetes Engine
-- Cloud Functions
-
-## Advantages
-
-- Strong data and AI services
-- Powerful infrastructure
-- Good support for containers
-- Scalable cloud services
-
-## Disadvantages
-
-- Can be difficult for beginners
-- Some services require technical knowledge
-- Pricing can vary depending on usage
+AWS, Azure, and GCP are major cloud computing platforms. Each platform provides computing, storage, networking, database, and other services. The best platform depends on the client's requirements, budget, existing technology, and technical skills.
