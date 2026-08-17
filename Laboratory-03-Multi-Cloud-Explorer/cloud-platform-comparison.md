@@ -1,14 +1,10 @@
-# Cloud Platform Comparison
+| Category            | AWS                           | Microsoft Azure               | Google Cloud Platform         |
+| ------------------- | ----------------------------- | ----------------------------- | ----------------------------- |
+| Launch Year         | 2006                          | 2010                          | 2008                          |
+| Compute Service     | Amazon EC2                    | Azure Virtual Machines        | Compute Engine                |
+| Storage Service     | Amazon S3                     | Azure Blob Storage            | Cloud Storage                 |
+| Networking Service  | Amazon VPC                    | Azure Virtual Network (VNet)  | Google VPC                    |
+| Identity Service    | AWS IAM                       | Microsoft Entra ID            | Google Cloud IAM              |
+| Primary Strength    | Broad range of cloud services | Microsoft integration         | Data, AI/ML, Kubernetes       |
+| Ideal Organizations | Startups and enterprises      | Microsoft-based organizations | AI/data-focused organizations |
 
-| Feature | AWS | Azure | GCP |
-|---|---|---|---|
-| Provider | Amazon | Microsoft | Google |
-| Compute | EC2 | Virtual Machines | Compute Engine |
-| Storage | S3 | Blob Storage | Cloud Storage |
-| Database | RDS | Azure SQL | Cloud SQL |
-| AI Services | AWS AI Services | Azure AI | Google AI |
-| Best Known For | Large cloud ecosystem | Microsoft integration | Data and AI |
-
-## Summary
-
-AWS, Azure, and GCP are major cloud computing platforms. Each platform provides computing, storage, networking, database, and other services. The best platform depends on the client's requirements, budget, existing technology, and technical skills.
